@@ -1,4 +1,4 @@
-name: tv
+name: native_tv_app
 description: "A new Flutter project."
 
 # Prevent publishing to pub.dev since this is a private project
