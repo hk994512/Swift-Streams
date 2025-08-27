@@ -1,4 +1,4 @@
-name: swift_streamz
+name: tv
 description: "A new Flutter project."
 
 # Prevent publishing to pub.dev since this is a private project
