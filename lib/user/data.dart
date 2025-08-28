@@ -260,7 +260,48 @@ class UserData {
       'videoUrl':
           'https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/27ff330f-0f93-4f5d-8227-211aa94eccba/3.m3u8',
     },
+ {
+      'title': 'Colors Cineplex',
+      'image': 'https://c.kmpr.in/assets/tv_channels_150/5767.jpg',
+      'videoUrl':
+          'https://live.dinesh29.com.np/stream/jiotv/colorscineplex/master.m3u8',
+    },
+    {
+      'title': 'Sony Max',
+      'image': 'https://c.kmpr.in/assets/tv_channels_150/5731.jpg',
+      'videoUrl': 'https://cdn.stmify.com/out/v1/SONY_MAX_HD/300277.m3u8',
+    },
+    {
+      'title': 'Sony Wah',
+      'image': 'https://c.kmpr.in/assets/tv_channels_150/5770.jpg',
+      'videoUrl':
+          'https://dtvxtream.com/sonyliv2/index.php?id=300269&file=master_412.m3u8',
+    },
+    {
+      'title': 'Sony Sab',
+      'image': 'https://c.kmpr.in/assets/tv_channels_150/5561.jpg',
+      'videoUrl':
+          'https://dtvxtream.com/sonyliv2/index.php?id=300267&file=master_412.m3u8',
+    },
+    {
+      'title': 'Sony Max 2',
+      'image': 'https://c.kmpr.in/assets/tv_channels_150/5597.jpg',
+      'videoUrl':
+          'https://dtvxtream.com/sonyliv2/index.php?id=301559&file=master_412.m3u8',
+    },
+    {
+      'title': 'Sony AATH',
+      'image': 'https://c.kmpr.in/assets/tv_channels_150/5139.jpg',
+      'videoUrl':
+          'https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8',
+    },
 
+    {
+      'title': 'Goobare',
+      'image': 'https://c.kmpr.in/assets/tv_channels_150/6294.jpg',
+      'videoUrl':
+          'https://epiconvh.akamaized.net/live/gubbare/master.m3u8',
+    },
     {
       'title': 'B4U Music',
       'image': 'https://c.kmpr.in/assets/tv_channels_150/5374.jpg',
